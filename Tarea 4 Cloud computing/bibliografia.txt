@@ -3,3 +3,4 @@ https://www.alibabacloud.com/es/about?_p_lc=1&spm=a3c0i.27862975.9135018350.9.43
 https://chatgpt.com (ventajas y desventajas)
 https://www.bbva.com/es/innovacion/cloud-computing-una-oportunidad-de-negocio-para-las-startup-con-la-que-mejorar-la-productividad-de-las-empresas/
 https://technologymagazine.com/top10/top-10-biggest-cloud-providers-in-the-world-in-2023
+https://learn.microsoft.com/es-es/azure/architecture/data-guide/scenarios/data-transfer
